@@ -6,6 +6,8 @@
 
 ### 대학병원 의사들을 위한 쉽고 빠른 당직/연차 관리 서비스
 
+프로젝트 레포지토리 : https://github.com/MINI-TEAM3/client
+
 <br />
 
 ## 🎮 프로젝트 DEMO
