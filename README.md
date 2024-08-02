@@ -6,9 +6,9 @@
 
 ### 대학병원 의사들을 위한 쉽고 빠른 당직/연차 관리 서비스
 
-프로젝트 레포지토리: https://github.com/MINI-TEAM3/client
-프로젝트 커밋 히스토리: https://github.com/MINI-TEAM3/client/commits/dev/
-프로젝트 PR 히스토리: https://github.com/MINI-TEAM3/client/pulls?q=is%3Apr+is%3Aclosed
+프로젝트 레포지토리: https://github.com/MINI-TEAM3/client  
+프로젝트 커밋 히스토리: https://github.com/MINI-TEAM3/client/commits/dev/  
+프로젝트 PR 히스토리: https://github.com/MINI-TEAM3/client/pulls?q=is%3Apr+is%3Aclosed  
 
 <br />
 
